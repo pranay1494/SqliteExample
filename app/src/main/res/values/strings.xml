@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteExample</string>
+    <string-array name="alert">
+        <item>Take Picture </item>
+        <item>Pick Picture </item>
+    </string-array>
+</resources>
